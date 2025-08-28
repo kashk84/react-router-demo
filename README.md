@@ -1,2 +1,3 @@
 # Deploy
-https://frolicking-cassata-eb8ccd.netlify.app/
+
+https://funny-horse-528e10.netlify.app/
